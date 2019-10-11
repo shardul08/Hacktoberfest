@@ -1,2 +1,2 @@
 # Hacktoberfest
-send pr and win a tshirt
+Send PR and win a t-shirt.
